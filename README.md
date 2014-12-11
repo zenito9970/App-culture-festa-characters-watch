@@ -25,6 +25,10 @@ App-culture-festa-characters-watch
 背景にマスコットキャラクターの画像が表示されるアナログ時計です。  
 ウィンドウのどこかをクリックすると背景画像を切り替えることが出来ます。  
 
+###スクリーンショット
+![スクショ1](https://raw.github.com/wiki/zenito9970/App-culture-festa-characters-watch/screenshot1.PNG)
+![スクショ2](https://raw.github.com/wiki/zenito9970/App-culture-festa-characters-watch/screenshot2.PNG)
+
 ###起動方法
 "Acfcw.zip"ファイルを解凍し、お使いのwindowsのビット数のフォルダ内にある"watch.exe"を実行して下さい。
 
